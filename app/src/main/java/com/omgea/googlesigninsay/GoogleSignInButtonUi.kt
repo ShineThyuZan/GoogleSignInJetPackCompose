@@ -52,8 +52,8 @@ fun GoogleSignInButtonUi(
                 contentDescription = "Google Sign In",
                 tint = Color.Unspecified
             )
-
             Spacer(modifier = Modifier.width(8.dp))
+
             Text(text = if (clicked) loadingText else text)
             if (clicked) {
                 Spacer(modifier = Modifier.width(16.dp))
