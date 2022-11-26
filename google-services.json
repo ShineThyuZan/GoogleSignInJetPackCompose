@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304144194380",
+    "project_id": "signinsay-5d28a",
+    "storage_bucket": "signinsay-5d28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304144194380:android:5e4ea826eab46d73bccde9",
+        "android_client_info": {
+          "package_name": "com.omgea.googlesigninsay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304144194380-2el3ir8p9c7fgar57v0m1333kpi35tm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9InpVvGNBAzlwnkDnA8l8DGfbzQn3ePM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304144194380-2el3ir8p9c7fgar57v0m1333kpi35tm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
